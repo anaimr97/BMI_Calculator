@@ -1,0 +1,121 @@
+body{
+    background-color: rgba(53, 89, 118, 0.25);
+}
+
+.caixa-geral{
+    box-shadow: 0px 0px 50px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 60px 0px 60px 0px;
+}
+
+.caixa-nutricao{
+    background-color: rgb(53, 89, 118);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 5rem; 
+    border-top-left-radius: 60px;
+}
+
+.caixao-sessao{
+    background-color: white;
+    text-align: center;
+    border-bottom-right-radius: 60px;
+}
+
+.botao-index{
+    border: 1px solid rgb(53, 89, 118);
+    color: rgb(53, 89, 118);
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    transition-duration: 0.5s;
+}
+
+.botao-index:hover{
+    background-color: rgb(53, 89, 118);
+    color: white;
+}
+
+.geral-sessao{
+    width: 60vw;
+    box-shadow: 0px 0px 50px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 60px 0px 60px 0px;
+}
+
+.saida-titulo{
+    background-color: rgb(53, 89, 118);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4rem; 
+    width: 100%;
+    border-top-left-radius: 60px;
+}
+
+.saida-corpo{
+    width: 100%;
+    background-color: white;
+    border-bottom-right-radius: 60px;
+}
+
+.caixa-visitante{
+    background-color: white;
+    border-bottom-right-radius: 60px;
+    color: rgb(53, 89, 118);
+}
+
+input{
+    border: 0;
+    border-bottom: 1px solid rgb(53, 89, 118);
+    text-align: center;
+}
+
+input:focus{
+    outline: 0;
+}
+
+.saida-visitante{
+    width: 60vw;
+    box-shadow: 0px 0px 50px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 60px 0px 60px 0px;
+}
+
+.saida-dados{
+    color: rgb(53, 89, 118);
+    border: 2px solid rgb(53, 89, 118);
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgba(53, 89, 118, 0.10);
+    height: 52%;
+}
+
+.perfil{
+    background-color: rgba(54, 103, 144, 0.8); 
+    border-radius: 50%;
+    width: 70px;
+}
+
+.caixa-visitante-resultados{
+    font-size: 14px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.caixa-visitante-tabela{
+    margin-top: 20px;
+    width: 75%;
+    border-radius: 15px;
+}
+
+span{
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(53, 89, 118);
+}
+
+.idade-atencao{
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(53, 89, 118);
+}

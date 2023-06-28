@@ -1,7 +1,7 @@
 <h1 align="center">BMI Calculator</h1>
 
 <h2> 📄 Description</h2>
-Website with login system for registered users and a space for non-users to enter their information to calculate BMI.
+The project is a website with login system for registered users and a space for non-users to enter their information to calculate BMI.
 
 <h2> ⚙ Languages & Tools</h2>
 <div>
